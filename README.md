@@ -8,6 +8,9 @@ University of Technology Sydney (UTS).
 The focus is on security fundamentals, applied cryptography,
 information security management, and basic incident analysis.
 
+> Network-layer security concepts are covered separately in my
+> [Networking Labs](https://github.com/MagTro29/networking-labs).
+
 ## Areas Covered
 
 ### Cybersecurity Fundamentals
