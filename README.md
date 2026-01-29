@@ -9,7 +9,7 @@ The focus is on security fundamentals, applied cryptography,
 information security management, and basic incident analysis.
 
 > Network-layer security concepts are covered separately in my
-> [Networking Labs](https://github.com/MagTro29/networking-labs).
+> [Networking Labs](https://github.com/MagTro29/Networking).
 
 ## Areas Covered
 
